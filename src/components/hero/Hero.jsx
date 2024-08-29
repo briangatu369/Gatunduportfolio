@@ -82,7 +82,7 @@ const Hero = () => {
       </div>
 
       <div className="imageContainer">
-        <img src="profile.jpg" alt="" />
+        <img src="profile.webp" alt="" />
       </div>
     </div>
   );
